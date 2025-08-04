@@ -24,13 +24,18 @@ The application will perform a quick, silent installation and automatically add 
 Once installed, you can launch vsAPP from your desktop shortcut or applications folder.
 You will see the following:
 
+>
+
 <img width="1502" height="1034" alt="image" src="https://github.com/user-attachments/assets/e89ca3a1-fb5a-4bdd-971a-5645b41c9866" />
 
-*   **The Home Screen:**
-  The app opens to the Home screen, where you are greeted with a "Bentornato" (Welcome back).
-  From here, you can choose from different categories of content, such as "Lezioni" (Lessons) and "Esercizi" (Exercises).
+>
 
 <img width="1500" height="1031" alt="image" src="https://github.com/user-attachments/assets/49284ea0-fc0e-4d03-8f3e-ac27662ddca2" />
+
+
+*   **The Home Screen:**
+    The app opens to the Home screen, where you are greeted with a "Bentornato" (Welcome back).
+    From here, you can choose from different categories of content, such as "Lezioni" (Lessons) and "Esercizi" (Exercises).
 
 *   **Tabbed Browsing:**
     Click on any lesson or exercise to open it in a new tab.
