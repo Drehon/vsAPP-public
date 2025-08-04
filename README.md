@@ -1,34 +1,26 @@
 # Welcome to vsAPP!
 
-vsAPP is your personal learning platform, designed to provide an interactive and seamless educational experience. It's a self-contained application for studying and practicing, currently focused on Italian language lessons and exercises.
+vsAPP is your personal learning platform, designed to provide an interactive and seamless educational experience. 
+It's a self-contained application for studying and practicing, currently focused on English language lessons and exercises.
+Currently only for Windows.
 
 ## Getting Started
 
-Getting vsAPP up and running is simple. Just follow these two steps to download and install the application.
+Getting vsAPP up and running is simple. 
+Just follow these two steps to download and install the application.
 
 ### 1. Download the Latest Version
 
-You can find the latest version of vsAPP on our **[releases page](https://github.com/Drehon/vsAPP/releases)**.
+You can find the latest version of vsAPP on our **[releases page](https://github.com/Drehon/vsAPP-public/releases)**.
 
-Download the correct file for your operating system:
-*   **Windows:** `vsAPP-Setup-x.x.x.exe`
-*   **macOS:** `vsAPP-x.x.x.zip`
-*   **Linux:** `.deb` or `.rpm` file
+Download the correct file:
+`vsAPP-Setup-x.x.x.exe`
 
 ### 2. Install the App
-
-*   **Windows:**
-    Double-click the downloaded `.exe` file. The application will perform a quick, silent installation and automatically add a shortcut to your desktop.
-
-*   **macOS:**
-    1.  Double-click the downloaded `.zip` file to extract the application.
-    2.  Drag the `vsAPP.app` icon into your `Applications` folder.
-
-*   **Linux:**
-    Install the downloaded `.deb` or `.rpm` package using your distribution's standard package manager.
+Double-click the downloaded `.exe` file. 
+The application will perform a quick, silent installation and automatically add a shortcut to your desktop.
 
 ## How to Use the App
-
 Once installed, you can launch vsAPP from your desktop shortcut or applications folder.
 
 *   **The Home Screen:** The app opens to the Home screen, where you are greeted with a "Bentornato" (Welcome back). From here, you can choose from different categories of content, such as "Lezioni" (Lessons) and "Esercizi" (Exercises).
@@ -39,4 +31,4 @@ Once installed, you can launch vsAPP from your desktop shortcut or applications 
 
 ---
 
-&copy; 2024 Drehon. All rights reserved.
+&copy; 2025 Drehon. All rights reserved.
