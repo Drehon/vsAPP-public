@@ -22,23 +22,28 @@ The application will perform a quick, silent installation and automatically add 
 
 ## How to Use the App
 Once installed, you can launch vsAPP from your desktop shortcut or applications folder.
+You will see the following:
 
 <img width="1502" height="1034" alt="image" src="https://github.com/user-attachments/assets/e89ca3a1-fb5a-4bdd-971a-5645b41c9866" />
+
 *   **The Home Screen:**
   The app opens to the Home screen, where you are greeted with a "Bentornato" (Welcome back).
   From here, you can choose from different categories of content, such as "Lezioni" (Lessons) and "Esercizi" (Exercises).
 
 <img width="1500" height="1031" alt="image" src="https://github.com/user-attachments/assets/49284ea0-fc0e-4d03-8f3e-ac27662ddca2" />
+
 *   **Tabbed Browsing:**
     Click on any lesson or exercise to open it in a new tab.
     You can open multiple tabs at once and easily switch between them, just like in a web browser.
     
 *   **Saving Your Progress:**
-    Use the **"Salva" (Save)** and **"Carica" (Load)** buttons in the top toolbar to save and restore your progress in the exercises at any time.
+    Use the **"Salva" (Save)** and **"Carica" (Load)** buttons in the top toolbar.
+    These buttons let you save and restore your progress in the exercises at any time and to your preference.
     
 *   **Always Up-to-Date:**
     The app checks for updates automatically and will warn you when a new version is available.
-    Easily click on download new version and (after download is complete) on Install and wait a few seconds as the app installs the update in the background.
+    Easily click on download new version and (after download is complete) on Install.
+    Then wait a few seconds as the app installs the update in the background.
     You'll always have the latest features and content without having to manually download any new file.
     
 *   **Works Offline:**
